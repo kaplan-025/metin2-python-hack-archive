@@ -1,48 +1,46 @@
-# Metin2 Python Hack Arşivi
+# Metin2 Python Hack Archive
 
-Metin2 için yıllar içinde toplanmış **Python tabanlı hack, bot ve mod** arşivi. Oyun içi otomasyon, görüntü iyileştirme ve çeşitli araçlar içerir.
+A collection of **Python-based hacks, bots, and mods** for Metin2 gathered over the years. Includes in-game automation, visual enhancements, and various tools.
 
 ---
 
-## 📁 Klasör Yapısı
+## 📁 Directory Structure
 
 ```
 Python Arşivi/
-├── 7x Damage/          # 7x hasar modu - dmg dosyaları
-├── Karışık/            # Çeşitli hack scriptleri (farmbot, fishbot, multihack, teleport vb.)
-├── M2kmod/             # M2kmod - kapsamlı Metin2 mod paketi (1.3, 1.4, 2.0 sürümleri)
-├── Python Loader/      # Python loader DLL'leri (Loader 1 & 2)
-└── Zahon Mod/          # Zahon Mod - GUI destekli gelişmiş mod paketi
+├── 7x Damage/          # 7x damage mod - dmg files
+├── Karışık/            # Miscellaneous hack scripts (farmbot, fishbot, multihack, teleport, etc.)
+├── M2kmod/             # M2kmod - comprehensive mod package (versions 1.3, 1.4, 2.0)
+├── Python Loader/      # Python loader DLLs (Loader 1 & 2)
+└── Zahon Mod/          # Zahon Mod - advanced mod package with GUI
 ```
 
-### Detaylı İçerik
+### Contents Breakdown
 
-| Klasör | Açıklama |
-|--------|----------|
-| **7x Damage** | 7x hasar modu için gerekli dosyalar (`dmg/`, `lib/`) |
-| **Karışık** | 40+ bağımsız script: fishbot, multihack, teleport, levelbot, buffbot, spambot, item creator, pickup stealer, energy bot, vb. |
-| **M2kmod** | Kapsamlı mod paketi - 3 sürüm (1.3, 1.4, 2.0). Hackbar, modüller (buffbot, levelbot, shopcreator, itemstealer, telehack vb.), GUI görselleri |
-| **Python Loader** | Oyun içi Python scriptlerini çalıştırmak için loader DLL'leri (2.2 ve 2.7 sürümleri) |
-| **Zahon Mod** | Butonlar, ikonlar, detektör listeleri ve Python scriptlerinden oluşan gelişmiş mod |
-
----
-
-## 🛠️ Kullanım
-
-1. Uygun **Python Loader** DLL'lerinden birini seçin
-2. Seçtiğiniz script'i loader ile oyuna enjekte edin
-3. Script'in talimatlarına göre oyun içinde tuş kombinasyonlarını kullanın
-
-> ⚡ Çoğu script `.py` uzantılıdır ve doğrudan Python Loader ile çalışır.
+| Directory | Description |
+|-----------|-------------|
+| **7x Damage** | 7x damage mod files (`dmg/`, `lib/`) |
+| **Karışık** | 40+ standalone scripts: fishbot, multihack, teleport, levelbot, buffbot, spambot, item creator, pickup stealer, energy bot, etc. |
+| **M2kmod** | Full mod package - 3 versions (1.3, 1.4, 2.0). Includes hackbar, modules (buffbot, levelbot, shopcreator, itemstealer, telehack, etc.), GUI images |
+| **Python Loader** | DLL loaders for injecting Python scripts in-game (v2.2 and v2.7) |
+| **Zahon Mod** | Advanced mod with custom buttons, icons, detector configs, and Python scripts |
 
 ---
 
-## ⚠️ Uyarı / Disclaimer
+## 🛠️ Usage
 
-**TR:** Bu arşiv yalnızca **eğitim ve araştırma** amaçlıdır. İçerideki scriptlerin kullanımı oyun hesabınızın kalıcı olarak banlanmasına yol açabilir. Hiçbir scriptin çalışacağının garantisi verilmez. Tüm sorumluluk kullanıcıya aittir.
+1. Pick one of the **Python Loader** DLLs
+2. Inject your chosen script into the game using the loader
+3. Use the in-game key binds as described by each script
 
-**EN:** This archive is for **educational and research purposes only**. Using these scripts may result in a permanent game account ban. No warranty is provided for any of the scripts. Use at your own risk.
+> ⚡ Most scripts are `.py` files and work directly with Python Loader.
 
 ---
 
-*Arşiv kaynağı: Dreamfancy.org & çeşitli Metin2 toplulukları*
+## ⚠️ Disclaimer
+
+This archive is for **educational and research purposes only**. Using these scripts may result in a permanent game account ban. No warranty is provided for any of the scripts. Use at your own risk.
+
+---
+
+*Source: Dreamfancy.org & various Metin2 communities*
