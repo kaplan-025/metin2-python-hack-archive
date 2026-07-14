@@ -1,0 +1,76 @@
+###[Item-IDs]###
+Swich-Item=71084
+Exorcism-Scroll=71001
+Concentrated=71094
+Soul-Stone=50513
+Zen-Bean=70102
+Blessing-Scroll=25040
+Magic-Stone=25041
+Red-Pot=27003
+Blue-Pot=27006
+AutoRed-Pot=72723
+AutoBlue-Pot=72727
+Bravery-Cape=70038
+MoveSpeed=300
+AttackSpeed=400
+###[Levelbot]###
+RedPercent=90
+BluePercent=29
+TapfiSec=19
+Skill1=0,1,1
+Skill2=1,2,2
+Skill3=0,3,3
+Skill4=1,4,4
+Skill5=0,5,5
+Skill6=0,66,6
+Horse=1
+Pickup=1
+Rotation=1
+ExpDonator=0
+AutoPotion=0
+###[Spambot]###
+SpamStatus=0
+SpamDelay=20
+Type=Normal
+CurrentText=Text8
+Text1=m2k-Mod Text1
+Text2=m2k-Mod Text2
+Text3=m2k-Mod Text3
+Text4=m2k-Mod Text4
+Text5=m2k-Mod Text5
+Text6=m2k-Mod Text6
+Text7=m2k-Mod Text7
+Text8=m2k-Mod Text8
+###[Buffbot]###
+BuffStatus=0
+BuffDelay=20
+Segen=0
+Reflekt=0
+HDD=0
+Follow=0
+TargetVID=0
+###[Shop-Creator]###
+ShopName=m2kmod - Shop 
+Multiplication=1
+###[Item-Creator]###
+Language=German
+ItemValue=189
+CreateBonus0=72
+CreateBonus1=17
+CreateBonus2=5
+CreateBonus3=3
+CreateBonus4=22
+BonusValue0=55
+BonusValue1=10
+BonusValue2=12
+BonusValue3=4
+BonusValue4=10
+MetinStone1=28433
+MetinStone2=28435
+MetinStone3=28434
+###[EQ-Changer]###
+WeaponID=189
+ArmorID=12019
+FakeName=[GM]123klo
+Fake_Name=1
+GMEffect=1
