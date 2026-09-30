@@ -83,6 +83,10 @@ Python Arşivi/
 │       │   └── pc2/                      #
 │       └── otodamage.py                  #     Auto-damage injector script
 │
+├── Gui Editor/                           # In-game GUI/window layout editor
+│   ├── GuiEditor27.py                    #   Main editor script (drag & drop builder)
+│   └── logininfo.py                      #   Entry point (imports GuiEditor27)
+│
 ├── Karışık/                              # Standalone hack scripts (40+ files)
 │   │
 │   │   ### Bots ###
@@ -275,6 +279,12 @@ Python Arşivi/
 2. Inject `ZAHON_MOD.py` via Python Loader
 3. GUI with button-based module control appears in-game
 
+### Gui Editor Usage
+
+1. Copy the files from `Gui Editor/` into your Metin2 `lib/` directory
+2. Inject `logininfo.py` via Python Loader (Python 2.7)
+3. The in-game window builder opens — drag, resize and save your custom UI layout
+
 ### 7x Damage Mod
 
 1. Run `otodamage.py` to enable auto-damage injection
@@ -287,4 +297,4 @@ This archive is for **educational and research purposes only**. Using these scri
 
 ---
 
-*Sources: Dreamfancy.org, M2kmod, KAGB, Zahon Mod & various Metin2 modding communities*
+*Sources: Dreamfancy.org, M2kmod, KAGB, Zahon Mod, ElitePvPers (kamer1337) & various Metin2 modding communities*
